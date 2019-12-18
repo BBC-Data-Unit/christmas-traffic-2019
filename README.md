@@ -6,7 +6,7 @@ In December 2019 we [reported](https://www.bbc.co.uk/news/uk-england-50807966) o
 
 ## Get the data
 
-* XLS: [In numbers: expected Christmas getaway trips by day, plus worst delays; In full: roads expected to be worst affected](https://github.com/BBC-Data-Unit/christmas-traffic-2018/blob/master/2018%20-%20RAC%20INRIX%20Christmas%20travel.xlsx)
+* XLS: [Worst delays; roads expected to be worst affected](https://github.com/BBC-Data-Unit/christmas-traffic-2019/blob/master/getaway.xlsx)
 
 ## Quotes and interviews
 
